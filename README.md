@@ -187,23 +187,23 @@
     - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
-### Advanced concepts apart from interviews 
-- [ ] Fast IO
-- [ ] File handling
-- [ ] Bitwise + DP
-- [ ] Extended Euclidean algorithm
-- [ ] Modulo Multiplicative Inverse
-- [ ] Linear Diophantine Equations
-- [ ] Matrix Exponentiation
-- [ ] Mathematical Expectation
-- [ ] Catalan Numbers
-- [ ] Fermat’s Theorem
-- [ ] Wilson's Theorem
-- [ ] Euler's Theorem
-- [ ] Lucas Theorem
-- [ ] Chinese Remainder Theorem
-- [ ] Euler Totient
-- [ ] NP-Completeness
-- [ ] Multithreading
-- [ ] Fenwick Tree / Binary Indexed Tree
-- [ ] Square Root Decomposition -->
+- [ ] Advanced concepts apart from interviews 
+   - - [ ] Fast IO
+   - - [ ] File handling
+   - - [ ] Bitwise + DP
+   - - [ ] Extended Euclidean algorithm
+   - - [ ] Modulo Multiplicative Inverse
+   - - [ ] Linear Diophantine Equations
+   - - [ ] Matrix Exponentiation
+   - - [ ] Mathematical Expectation
+   - - [ ] Catalan Numbers
+   - - [ ] Fermat’s Theorem
+   - - [ ] Wilson's Theorem
+   - - [ ] Euler's Theorem
+   - - [ ] Lucas Theorem
+   - - [ ] Chinese Remainder Theorem
+   - - [ ] Euler Totient
+   - - [ ] NP-Completeness
+   - - [ ] Multithreading
+   - - [ ] Fenwick Tree / Binary Indexed Tree
+   - - [ ] Square Root Decomposition -->
